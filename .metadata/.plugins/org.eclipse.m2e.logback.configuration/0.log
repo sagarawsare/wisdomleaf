@@ -716,3 +716,4 @@
 2023-09-18 00:29:59,691 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\sbora\OneDrive\Desktop\wisdomLeaf\wisdomLeafTask\src\test\resources
 2023-09-18 00:54:45,020 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-09-18 00:54:45,022 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-09-18 00:54:45,027 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\sbora\OneDrive\Desktop\wisdomLeaf\wisdomLeafTask\src\test\resources
